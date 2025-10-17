@@ -8,3 +8,5 @@ Currently, two official extensions are available:
 @arrow-dplyr/DT_editor_shiny_module uses Shiny for Interactive Tables
 
 # PR Merge: 2025-10-17 - feature/merge-6333
+
+# PR Merge: 2025-10-17 - fix/merge-7216
